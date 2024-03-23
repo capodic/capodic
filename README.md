@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Cosmo Capodiferro</h1>
+<h1 align="center">Hi 👋, I'm Cosmo </h1>
 <h3 align="center">IT Consultant from Italy. Passionate about IA and IoT.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=capodic&label=Profile%20views&color=0e75b6&style=flat" alt="capodic" /> </p>
